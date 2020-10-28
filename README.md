@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### You've come to the Github profile owned and maintained by [Farhan Sabbir Siddique](https://www.linkedin.com/in/fsabbir/) 
+## Hi there! <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width='30px'> Welcome to my Gitbub profile
+### I am [Farhan Sabbir Siddique](https://www.linkedin.com/in/fsabbir/)
 
 
 ##### Here's a brief of what I do:
