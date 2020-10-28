@@ -1,3 +1,5 @@
+<img src='https://raw.githubusercontent.com/farhansabbir/farhansabbir/main/devops-banner.jpg' width='100%'>
+
 ## Hi there! <img src='https://raw.githubusercontent.com/farhansabbir/farhansabbir/main/wave.gif' width='30px'>
 ### I am [Farhan Sabbir Siddique](https://www.linkedin.com/in/fsabbir/)
 
