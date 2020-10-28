@@ -25,7 +25,7 @@
 ###### - ⚡ Fun fact #4: Some of my stakeholders literally changed organization to work with me ;) Well, apparently :D
 ###### - &#127793; I’m growing myself in: Python, ansible and some other cool stuff ...;)
 ###### - 💬 Ask me about: Linux only
-###### - 📫 How to reach me: fsabbir@gmail.com and ![LinkedIn](https://www.linkedin.com/in/fsabbir/)
+###### - 📫 How to reach me: fsabbir@gmail.com and [LinkedIn](https://www.linkedin.com/in/fsabbir/)
 
 
 
