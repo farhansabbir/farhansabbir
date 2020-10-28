@@ -37,3 +37,7 @@ Here are some ideas to get you started:
 ###### - 💬 Ask me about: Linux only
 ###### - 📫 How to reach me: fsabbir@gmail.com
 ![](https://komarev.com/ghpvc/?username=farhansabbir&style=flat&color=brightgreen)
+
+![Farhan's github stats](https://github-readme-stats.vercel.app/api?username=farhansabbir)
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhansabbir" />
+
