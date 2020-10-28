@@ -4,9 +4,9 @@
 
 ##### Here's a brief of what I do:
 
-- DevOps, DevOps and more DevOps
-- Python and Java! And Linux! And Solaris! And AWS!
-- Open source? Bring it to me to integrate! 
+#####  &#128204; DevOps, DevOps and more DevOps
+#####  &#128204; Python and Java! And Linux! And Solaris! And AWS!
+#####  &#128204; Open source? Bring it to me to integrate! 
 
 ##### Yea, seriously! 
 
@@ -17,7 +17,7 @@
 
 
 
-### Here's some quick facts about me:
+#### Here's some quick facts about me:
 ###### - &#128188; I’m currently working at: [Banglalink](https://banglalink.net) as Platform Senior Manager 
 ###### - ⚡ Fun fact #1: I have more than 14 years of experience in IT Operations, automation and systems design.
 ###### - ⚡ Fun fact #2: I am the one Systems admin who fixes your server, storage and application issues.
@@ -30,7 +30,7 @@
 
 
 
-### 🔧 Technologies & Tools
+#### 🔧 Technologies & Tools:
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
@@ -40,7 +40,7 @@
 
 
 
-### Here's a glimpse of my github engagement:
+#### Here's a glimpse of my github engagement:
 
 ![](https://komarev.com/ghpvc/?username=farhansabbir&style=flat&color=brightgreen)
 
