@@ -36,8 +36,11 @@ Here are some ideas to get you started:
 ###### - &#127793; I’m growing myself in: Python, ansible and some other cool stuff ...;)
 ###### - 💬 Ask me about: Linux only
 ###### - 📫 How to reach me: fsabbir@gmail.com
+
+### Here's a glimpse of my github engagement:
+
 ![](https://komarev.com/ghpvc/?username=farhansabbir&style=flat&color=brightgreen)
 
-![Farhan's github stats](https://github-readme-stats.vercel.app/api?username=farhansabbir)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhansabbir" />
+![Farhan's github stats](https://github-readme-stats.vercel.app/api?username=farhansabbir&show_icons=true&theme=dark)
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhansabbir&theme=dark" />
