@@ -1,4 +1,4 @@
-## Hi there! <img src='https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif' width='30px'>
+## Hi there! <img src='https://raw.githubusercontent.com/farhansabbir/farhansabbir/main/wave.gif' width='30px'>
 ### I am [Farhan Sabbir Siddique](https://www.linkedin.com/in/fsabbir/)
 
 
@@ -29,11 +29,22 @@
 
 
 
+
+### 🔧 Technologies & Tools
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=blue)
+
+
+
 ### Here's a glimpse of my github engagement:
 
 ![](https://komarev.com/ghpvc/?username=farhansabbir&style=flat&color=brightgreen)
 
-![Farhan's github stats](https://github-readme-stats.vercel.app/api?username=farhansabbir&show_icons=true&bgcolor=#ffffff&include_all_commits=true&count_private=true) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhansabbir&bgcolor=#ffffff&count_private=true&layout=compact"/>
+![Farhan's github stats](https://github-readme-stats.vercel.app/api?username=farhansabbir&show_icons=true&bgcolor=#ffffff&include_all_commits=true&count_private=true) <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhansabbir&hide=html,javascript,css&bgcolor=#ffffff&count_private=true&layout=compact"/>
 
 
 
