@@ -1,4 +1,4 @@
-<img src='https://raw.githubusercontent.com/farhansabbir/farhansabbir/main/limit_text.png' width='100%'>
+
 
 ## Hi there! <img src='https://raw.githubusercontent.com/farhansabbir/farhansabbir/main/wave.gif' width='30px'>
 ### I am [Farhan Sabbir Siddique](https://www.linkedin.com/in/farhansabbir/)
