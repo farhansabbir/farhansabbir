@@ -20,7 +20,7 @@
 
 
 #### Here's some quick facts about me:
-###### - &#128188; I’m currently working at: [Banglalink](https://banglalink.net) as Platform Senior Manager 
+###### - &#128188; I’m currently working at: [BAT](https://bat.com) as DBS Services Manager 
 ###### - ⚡ Fun fact #1: I have more than 14 years of experience in IT Operations, automation and systems design.
 ###### - ⚡ Fun fact #2: I am the one Systems admin who fixes your server, storage and application issues.
 ###### - ⚡ Fun fact #3: Coding is my passion. You can bring in your code to me, and promise me a coffee treat after!
