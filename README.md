@@ -20,8 +20,8 @@
 
 
 #### Here's some quick facts about me:
-###### - &#128188; I’m currently working at: [BAT](https://bat.com) as DBS Services Manager 
-###### - ⚡ Fun fact #1: I have more than 14 years of experience in IT Operations, automation and systems design.
+###### - &#128188; I’m currently working at: [BAT](https://bat.com) as DevSecOps Manager 
+###### - ⚡ Fun fact #1: I have more than 16 years of experience in IT Operations, automation and systems design.
 ###### - ⚡ Fun fact #2: I am the one Systems admin who fixes your server, storage and application issues.
 ###### - ⚡ Fun fact #3: Coding is my passion. You can bring in your code to me, and promise me a coffee treat after!
 ###### - ⚡ Fun fact #4: Some of my stakeholders literally changed organization to work with me ;) Well, apparently :D
